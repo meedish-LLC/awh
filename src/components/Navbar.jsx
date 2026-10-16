@@ -28,9 +28,9 @@ export default function Navbar({ currentPage, setCurrentPage, onOpenContact }) {
             AWH Architects — Minneapolis, MN
           </span>
           <div className="flex items-center gap-5 ml-auto text-[11px] font-sans">
-            <a href="tel:6123382020" className="flex items-center gap-1.5 hover:text-white transition-colors">
+            <a href="tel:6125585383" className="flex items-center gap-1.5 hover:text-white transition-colors">
               <Phone className="w-3 h-3 text-[#d97706]" />
-              <span>(612) 338-2020</span>
+              <span>(612) 558-5383</span>
             </a>
             <span className="text-neutral-500">|</span>
             <a href="mailto:info@awharchitects.com" className="flex items-center gap-1.5 hover:text-white transition-colors">
